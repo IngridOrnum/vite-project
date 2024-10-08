@@ -1,0 +1,1 @@
+export const SOME_LOCAL_VALUE = 'Some local value';
